@@ -1,4 +1,4 @@
-# Cleared for Takeoff: A Financial Health Analysis of IndiGo Airlines (FY 2021-2025)
+# Indigo: A Financial Health Analysis (FY 2021-2025)
 
 **Project Status:** Completed (October 2025)
 
